@@ -11,7 +11,8 @@
 
 ## 补充知识点
 
-1. [None 与""的区别](https://github.com/lqiqiqi/leetcode/blob/c3e546deecb7cf5b0340a8c81e344952ac7e2445/14 Longest Common Prefix    .md)
+1. [None与""的区别](https://github.com/lqiqiqi/leetcode/blob/c3e546deecb7cf5b0340a8c81e344952ac7e2445/14%20Longest%20Common%20Prefix%20%20%20%20.md)
+2. 
 
 
 
